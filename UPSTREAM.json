@@ -1,0 +1,16 @@
+{
+  "project": "Super Productivity",
+  "upstream_repository": "https://github.com/super-productivity/super-productivity",
+  "download_origin": "https://app.super-productivity.com",
+  "upstream_version": "20.0.0WB",
+  "manifest_timestamp": 1793999774363,
+  "archive_sha256": "c4e3e36c30993ad4309780dc7a1e3b382aaff532d5e1abcbea26dd5112e320d9",
+  "verified_manifest_assets": 882,
+  "license": "MIT; Johannes Millan; original license included",
+  "distribution": "Source overlays and pinned installer; full upstream assets fetched from official origin, not redistributed in Git.",
+  "extra_assets_sha1": {
+    "/ngsw-worker.js": "50dd1e59679f53b9958d4aede7225db3ce559e4e",
+    "/safety-worker.js": "3b3c24f5fca13ee61325298c2009282aeef273c7",
+    "/worker-basic.min.js": "3b3c24f5fca13ee61325298c2009282aeef273c7"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tao-codex-task-bridge",
+  "name": "Codex任务连接",
+  "description": "让本机Codex连接当前打开的工作总台，读取、新增、修改待办。只管理清单，不执行媒体任务，不连接外部服务。",
+  "author": "涛的工作总台",
+  "version": "2.0.0",
+  "manifestVersion": 1,
+  "minSupVersion": "19.0.1",
+  "permissions": ["getTasks", "getAllProjects", "getAllTags", "addTask", "updateTask", "showSnack", "registerMenuEntry"],
+  "dataSharing": [],
+  "hooks": [],
+  "iFrame": false
+}

@@ -1,0 +1,1293 @@
+{
+  "timestamp": 1704067200000,
+  "lastUpdate": 1704067200000,
+  "crossModelVersion": 4.5,
+  "data": {
+    "task": {
+      "ids": [
+        "demo-daily-1",
+        "demo-daily-2",
+        "demo-daily-3",
+        "demo-daily-4",
+        "demo-daily-5",
+        "demo-daily-6",
+        "demo-daily-7",
+        "demo-review-1",
+        "demo-review-2",
+        "demo-review-3",
+        "demo-review-4",
+        "demo-hold-1",
+        "demo-hold-2"
+      ],
+      "entities": {
+        "demo-daily-1": {
+          "id": "demo-daily-1",
+          "title": "安排今天最重要的三件事",
+          "projectId": "tao-console",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-routine"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "演示每日清单。请按自己的工作修改；不自动执行。"
+        },
+        "demo-daily-2": {
+          "id": "demo-daily-2",
+          "title": "整理当天业务安排",
+          "projectId": "tao-shoe",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-routine"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "演示每日清单。请按自己的工作修改；不自动执行。"
+        },
+        "demo-daily-3": {
+          "id": "demo-daily-3",
+          "title": "跟进内容制作与验收",
+          "projectId": "tao-video",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-routine"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "演示每日清单。请按自己的工作修改；不自动执行。"
+        },
+        "demo-daily-4": {
+          "id": "demo-daily-4",
+          "title": "复盘数据并记录一个改进",
+          "projectId": "tao-business",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-routine"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "演示每日清单。请按自己的工作修改；不自动执行。"
+        },
+        "demo-daily-5": {
+          "id": "demo-daily-5",
+          "title": "学习一个当前用得上的方法",
+          "projectId": "tao-study",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-routine"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "演示每日清单。请按自己的工作修改；不自动执行。"
+        },
+        "demo-daily-6": {
+          "id": "demo-daily-6",
+          "title": "整理工具和工作卡点",
+          "projectId": "tao-tools",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-routine"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "演示每日清单。请按自己的工作修改；不自动执行。"
+        },
+        "demo-daily-7": {
+          "id": "demo-daily-7",
+          "title": "记录成果与明日第一步",
+          "projectId": "tao-console",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-routine"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "演示每日清单。请按自己的工作修改；不自动执行。"
+        },
+        "demo-review-1": {
+          "id": "demo-review-1",
+          "title": "示例内容 1 · 待验收",
+          "projectId": "tao-video",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-pending"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "合成演示任务，无真实素材。勾选不代表正式审核结论。"
+        },
+        "demo-review-2": {
+          "id": "demo-review-2",
+          "title": "示例内容 2 · 待验收",
+          "projectId": "tao-video",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-pending"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "合成演示任务，无真实素材。勾选不代表正式审核结论。"
+        },
+        "demo-review-3": {
+          "id": "demo-review-3",
+          "title": "示例内容 3 · 待验收",
+          "projectId": "tao-video",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-pending"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "合成演示任务，无真实素材。勾选不代表正式审核结论。"
+        },
+        "demo-review-4": {
+          "id": "demo-review-4",
+          "title": "示例内容 4 · 待验收",
+          "projectId": "tao-video",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-pending"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "合成演示任务，无真实素材。勾选不代表正式审核结论。"
+        },
+        "demo-hold-1": {
+          "id": "demo-hold-1",
+          "title": "【暂停】示例项目 1",
+          "projectId": "tao-hold",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-hold-tag"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "演示暂停锁；没有授权前不执行。"
+        },
+        "demo-hold-2": {
+          "id": "demo-hold-2",
+          "title": "【暂停】示例项目 2",
+          "projectId": "tao-hold",
+          "subTaskIds": [],
+          "timeSpentOnDay": {},
+          "timeSpent": 0,
+          "timeEstimate": 0,
+          "isDone": false,
+          "tagIds": [
+            "tao-hold-tag"
+          ],
+          "created": 1704067200000,
+          "attachments": [],
+          "notes": "演示暂停锁；没有授权前不执行。"
+        }
+      },
+      "currentTaskId": null,
+      "selectedTaskId": null,
+      "taskDetailTargetPanel": null,
+      "lastCurrentTaskId": null,
+      "isDataLoaded": true,
+      "dismissedCalendarAutoImportEventIdsByProvider": {}
+    },
+    "project": {
+      "ids": [
+        "INBOX_PROJECT",
+        "tao-console",
+        "tao-shoe",
+        "tao-video",
+        "tao-business",
+        "tao-study",
+        "tao-tools",
+        "tao-hold"
+      ],
+      "entities": {
+        "INBOX_PROJECT": {
+          "isHiddenFromMenu": false,
+          "isArchived": false,
+          "isDone": false,
+          "doneOn": null,
+          "isEnableBacklog": false,
+          "backlogTaskIds": [],
+          "noteIds": [],
+          "advancedCfg": {
+            "worklogExportSettings": {
+              "cols": [
+                "DATE",
+                "START",
+                "END",
+                "TIME_CLOCK",
+                "TITLES_INCLUDING_SUB"
+              ],
+              "roundWorkTimeTo": null,
+              "roundStartTimeTo": null,
+              "roundEndTimeTo": null,
+              "separateTasksBy": " | ",
+              "groupBy": "DATE"
+            }
+          },
+          "theme": {
+            "isAutoContrast": true,
+            "isDisableBackgroundTint": false,
+            "primary": "rgb(144, 187, 165)",
+            "huePrimary": "500",
+            "accent": "#ff4081",
+            "hueAccent": "500",
+            "warn": "#e11826",
+            "hueWarn": "500",
+            "backgroundImageDark": "",
+            "backgroundImageLight": null,
+            "backgroundOverlayOpacity": 20,
+            "backgroundImageBlur": 0
+          },
+          "taskIds": [],
+          "icon": "inbox",
+          "id": "INBOX_PROJECT",
+          "title": "收件箱"
+        },
+        "tao-console": {
+          "isHiddenFromMenu": false,
+          "isArchived": false,
+          "isDone": false,
+          "doneOn": null,
+          "isEnableBacklog": false,
+          "backlogTaskIds": [],
+          "noteIds": [
+            "demo-intro"
+          ],
+          "advancedCfg": {
+            "worklogExportSettings": {
+              "cols": [
+                "DATE",
+                "START",
+                "END",
+                "TIME_CLOCK",
+                "TITLES_INCLUDING_SUB"
+              ],
+              "roundWorkTimeTo": null,
+              "roundStartTimeTo": null,
+              "roundEndTimeTo": null,
+              "separateTasksBy": " | ",
+              "groupBy": "DATE"
+            }
+          },
+          "theme": {
+            "isAutoContrast": true,
+            "isDisableBackgroundTint": false,
+            "primary": "rgb(144, 187, 165)",
+            "huePrimary": "500",
+            "accent": "#ff4081",
+            "hueAccent": "500",
+            "warn": "#e11826",
+            "hueWarn": "500",
+            "backgroundImageDark": "",
+            "backgroundImageLight": null,
+            "backgroundOverlayOpacity": 20,
+            "backgroundImageBlur": 0
+          },
+          "taskIds": [
+            "demo-daily-1",
+            "demo-daily-7"
+          ],
+          "icon": "dashboard",
+          "id": "tao-console",
+          "title": "总台 · 每日统筹"
+        },
+        "tao-shoe": {
+          "isHiddenFromMenu": false,
+          "isArchived": false,
+          "isDone": false,
+          "doneOn": null,
+          "isEnableBacklog": false,
+          "backlogTaskIds": [],
+          "noteIds": [],
+          "advancedCfg": {
+            "worklogExportSettings": {
+              "cols": [
+                "DATE",
+                "START",
+                "END",
+                "TIME_CLOCK",
+                "TITLES_INCLUDING_SUB"
+              ],
+              "roundWorkTimeTo": null,
+              "roundStartTimeTo": null,
+              "roundEndTimeTo": null,
+              "separateTasksBy": " | ",
+              "groupBy": "DATE"
+            }
+          },
+          "theme": {
+            "isAutoContrast": true,
+            "isDisableBackgroundTint": false,
+            "primary": "rgb(144, 187, 165)",
+            "huePrimary": "500",
+            "accent": "#ff4081",
+            "hueAccent": "500",
+            "warn": "#e11826",
+            "hueWarn": "500",
+            "backgroundImageDark": "",
+            "backgroundImageLight": null,
+            "backgroundOverlayOpacity": 20,
+            "backgroundImageBlur": 0
+          },
+          "taskIds": [
+            "demo-daily-2"
+          ],
+          "icon": "storefront",
+          "id": "tao-shoe",
+          "title": "业务运营"
+        },
+        "tao-video": {
+          "isHiddenFromMenu": false,
+          "isArchived": false,
+          "isDone": false,
+          "doneOn": null,
+          "isEnableBacklog": false,
+          "backlogTaskIds": [],
+          "noteIds": [],
+          "advancedCfg": {
+            "worklogExportSettings": {
+              "cols": [
+                "DATE",
+                "START",
+                "END",
+                "TIME_CLOCK",
+                "TITLES_INCLUDING_SUB"
+              ],
+              "roundWorkTimeTo": null,
+              "roundStartTimeTo": null,
+              "roundEndTimeTo": null,
+              "separateTasksBy": " | ",
+              "groupBy": "DATE"
+            }
+          },
+          "theme": {
+            "isAutoContrast": true,
+            "isDisableBackgroundTint": false,
+            "primary": "rgb(144, 187, 165)",
+            "huePrimary": "500",
+            "accent": "#ff4081",
+            "hueAccent": "500",
+            "warn": "#e11826",
+            "hueWarn": "500",
+            "backgroundImageDark": "",
+            "backgroundImageLight": null,
+            "backgroundOverlayOpacity": 20,
+            "backgroundImageBlur": 0
+          },
+          "taskIds": [
+            "demo-daily-3",
+            "demo-review-1",
+            "demo-review-2",
+            "demo-review-3",
+            "demo-review-4"
+          ],
+          "icon": "movie",
+          "id": "tao-video",
+          "title": "内容制作与验收"
+        },
+        "tao-business": {
+          "isHiddenFromMenu": false,
+          "isArchived": false,
+          "isDone": false,
+          "doneOn": null,
+          "isEnableBacklog": false,
+          "backlogTaskIds": [],
+          "noteIds": [],
+          "advancedCfg": {
+            "worklogExportSettings": {
+              "cols": [
+                "DATE",
+                "START",
+                "END",
+                "TIME_CLOCK",
+                "TITLES_INCLUDING_SUB"
+              ],
+              "roundWorkTimeTo": null,
+              "roundStartTimeTo": null,
+              "roundEndTimeTo": null,
+              "separateTasksBy": " | ",
+              "groupBy": "DATE"
+            }
+          },
+          "theme": {
+            "isAutoContrast": true,
+            "isDisableBackgroundTint": false,
+            "primary": "rgb(144, 187, 165)",
+            "huePrimary": "500",
+            "accent": "#ff4081",
+            "hueAccent": "500",
+            "warn": "#e11826",
+            "hueWarn": "500",
+            "backgroundImageDark": "",
+            "backgroundImageLight": null,
+            "backgroundOverlayOpacity": 20,
+            "backgroundImageBlur": 0
+          },
+          "taskIds": [
+            "demo-daily-4"
+          ],
+          "icon": "analytics",
+          "id": "tao-business",
+          "title": "数据复盘"
+        },
+        "tao-study": {
+          "isHiddenFromMenu": false,
+          "isArchived": false,
+          "isDone": false,
+          "doneOn": null,
+          "isEnableBacklog": false,
+          "backlogTaskIds": [],
+          "noteIds": [],
+          "advancedCfg": {
+            "worklogExportSettings": {
+              "cols": [
+                "DATE",
+                "START",
+                "END",
+                "TIME_CLOCK",
+                "TITLES_INCLUDING_SUB"
+              ],
+              "roundWorkTimeTo": null,
+              "roundStartTimeTo": null,
+              "roundEndTimeTo": null,
+              "separateTasksBy": " | ",
+              "groupBy": "DATE"
+            }
+          },
+          "theme": {
+            "isAutoContrast": true,
+            "isDisableBackgroundTint": false,
+            "primary": "rgb(144, 187, 165)",
+            "huePrimary": "500",
+            "accent": "#ff4081",
+            "hueAccent": "500",
+            "warn": "#e11826",
+            "hueWarn": "500",
+            "backgroundImageDark": "",
+            "backgroundImageLight": null,
+            "backgroundOverlayOpacity": 20,
+            "backgroundImageBlur": 0
+          },
+          "taskIds": [
+            "demo-daily-5"
+          ],
+          "icon": "school",
+          "id": "tao-study",
+          "title": "学习"
+        },
+        "tao-tools": {
+          "isHiddenFromMenu": false,
+          "isArchived": false,
+          "isDone": false,
+          "doneOn": null,
+          "isEnableBacklog": false,
+          "backlogTaskIds": [],
+          "noteIds": [],
+          "advancedCfg": {
+            "worklogExportSettings": {
+              "cols": [
+                "DATE",
+                "START",
+                "END",
+                "TIME_CLOCK",
+                "TITLES_INCLUDING_SUB"
+              ],
+              "roundWorkTimeTo": null,
+              "roundStartTimeTo": null,
+              "roundEndTimeTo": null,
+              "separateTasksBy": " | ",
+              "groupBy": "DATE"
+            }
+          },
+          "theme": {
+            "isAutoContrast": true,
+            "isDisableBackgroundTint": false,
+            "primary": "rgb(144, 187, 165)",
+            "huePrimary": "500",
+            "accent": "#ff4081",
+            "hueAccent": "500",
+            "warn": "#e11826",
+            "hueWarn": "500",
+            "backgroundImageDark": "",
+            "backgroundImageLight": null,
+            "backgroundOverlayOpacity": 20,
+            "backgroundImageBlur": 0
+          },
+          "taskIds": [
+            "demo-daily-6"
+          ],
+          "icon": "build",
+          "id": "tao-tools",
+          "title": "工具整理"
+        },
+        "tao-hold": {
+          "isHiddenFromMenu": false,
+          "isArchived": false,
+          "isDone": false,
+          "doneOn": null,
+          "isEnableBacklog": false,
+          "backlogTaskIds": [],
+          "noteIds": [],
+          "advancedCfg": {
+            "worklogExportSettings": {
+              "cols": [
+                "DATE",
+                "START",
+                "END",
+                "TIME_CLOCK",
+                "TITLES_INCLUDING_SUB"
+              ],
+              "roundWorkTimeTo": null,
+              "roundStartTimeTo": null,
+              "roundEndTimeTo": null,
+              "separateTasksBy": " | ",
+              "groupBy": "DATE"
+            }
+          },
+          "theme": {
+            "isAutoContrast": true,
+            "isDisableBackgroundTint": false,
+            "primary": "rgb(144, 187, 165)",
+            "huePrimary": "500",
+            "accent": "#ff4081",
+            "hueAccent": "500",
+            "warn": "#e11826",
+            "hueWarn": "500",
+            "backgroundImageDark": "",
+            "backgroundImageLight": null,
+            "backgroundOverlayOpacity": 20,
+            "backgroundImageBlur": 0
+          },
+          "taskIds": [
+            "demo-hold-1",
+            "demo-hold-2"
+          ],
+          "icon": "pause_circle",
+          "id": "tao-hold",
+          "title": "暂停 · 等待恢复"
+        }
+      }
+    },
+    "tag": {
+      "ids": [
+        "TODAY",
+        "tao-routine",
+        "tao-pending",
+        "tao-hold-tag"
+      ],
+      "entities": {
+        "TODAY": {
+          "color": null,
+          "created": 1704067200000,
+          "advancedCfg": {
+            "worklogExportSettings": {
+              "cols": [
+                "DATE",
+                "START",
+                "END",
+                "TIME_CLOCK",
+                "TITLES_INCLUDING_SUB"
+              ],
+              "roundWorkTimeTo": null,
+              "roundStartTimeTo": null,
+              "roundEndTimeTo": null,
+              "separateTasksBy": " | ",
+              "groupBy": "DATE"
+            }
+          },
+          "theme": {
+            "isAutoContrast": true,
+            "isDisableBackgroundTint": true,
+            "primary": "#6495ED",
+            "huePrimary": "400",
+            "accent": "#ff4081",
+            "hueAccent": "500",
+            "warn": "#e11826",
+            "hueWarn": "500",
+            "backgroundImageDark": "",
+            "backgroundImageLight": null,
+            "backgroundOverlayOpacity": 20,
+            "backgroundImageBlur": 0
+          },
+          "taskIds": [
+            "demo-daily-1",
+            "demo-daily-2",
+            "demo-daily-3",
+            "demo-daily-4",
+            "demo-daily-5",
+            "demo-daily-6",
+            "demo-daily-7"
+          ],
+          "icon": "wb_sunny",
+          "id": "TODAY",
+          "title": "今天"
+        },
+        "tao-routine": {
+          "color": null,
+          "created": 1704067200000,
+          "advancedCfg": {
+            "worklogExportSettings": {
+              "cols": [
+                "DATE",
+                "START",
+                "END",
+                "TIME_CLOCK",
+                "TITLES_INCLUDING_SUB"
+              ],
+              "roundWorkTimeTo": null,
+              "roundStartTimeTo": null,
+              "roundEndTimeTo": null,
+              "separateTasksBy": " | ",
+              "groupBy": "DATE"
+            }
+          },
+          "theme": {
+            "isAutoContrast": true,
+            "isDisableBackgroundTint": true,
+            "primary": "#6495ED",
+            "huePrimary": "400",
+            "accent": "#ff4081",
+            "hueAccent": "500",
+            "warn": "#e11826",
+            "hueWarn": "500",
+            "backgroundImageDark": "",
+            "backgroundImageLight": null,
+            "backgroundOverlayOpacity": 20,
+            "backgroundImageBlur": 0
+          },
+          "taskIds": [
+            "demo-daily-1",
+            "demo-daily-2",
+            "demo-daily-3",
+            "demo-daily-4",
+            "demo-daily-5",
+            "demo-daily-6",
+            "demo-daily-7"
+          ],
+          "icon": null,
+          "id": "tao-routine",
+          "title": "每日例行"
+        },
+        "tao-pending": {
+          "color": null,
+          "created": 1704067200000,
+          "advancedCfg": {
+            "worklogExportSettings": {
+              "cols": [
+                "DATE",
+                "START",
+                "END",
+                "TIME_CLOCK",
+                "TITLES_INCLUDING_SUB"
+              ],
+              "roundWorkTimeTo": null,
+              "roundStartTimeTo": null,
+              "roundEndTimeTo": null,
+              "separateTasksBy": " | ",
+              "groupBy": "DATE"
+            }
+          },
+          "theme": {
+            "isAutoContrast": true,
+            "isDisableBackgroundTint": true,
+            "primary": "#6495ED",
+            "huePrimary": "400",
+            "accent": "#ff4081",
+            "hueAccent": "500",
+            "warn": "#e11826",
+            "hueWarn": "500",
+            "backgroundImageDark": "",
+            "backgroundImageLight": null,
+            "backgroundOverlayOpacity": 20,
+            "backgroundImageBlur": 0
+          },
+          "taskIds": [
+            "demo-review-1",
+            "demo-review-2",
+            "demo-review-3",
+            "demo-review-4"
+          ],
+          "icon": null,
+          "id": "tao-pending",
+          "title": "待验收"
+        },
+        "tao-hold-tag": {
+          "color": null,
+          "created": 1704067200000,
+          "advancedCfg": {
+            "worklogExportSettings": {
+              "cols": [
+                "DATE",
+                "START",
+                "END",
+                "TIME_CLOCK",
+                "TITLES_INCLUDING_SUB"
+              ],
+              "roundWorkTimeTo": null,
+              "roundStartTimeTo": null,
+              "roundEndTimeTo": null,
+              "separateTasksBy": " | ",
+              "groupBy": "DATE"
+            }
+          },
+          "theme": {
+            "isAutoContrast": true,
+            "isDisableBackgroundTint": true,
+            "primary": "#6495ED",
+            "huePrimary": "400",
+            "accent": "#ff4081",
+            "hueAccent": "500",
+            "warn": "#e11826",
+            "hueWarn": "500",
+            "backgroundImageDark": "",
+            "backgroundImageLight": null,
+            "backgroundOverlayOpacity": 20,
+            "backgroundImageBlur": 0
+          },
+          "taskIds": [
+            "demo-hold-1",
+            "demo-hold-2"
+          ],
+          "icon": null,
+          "id": "tao-hold-tag",
+          "title": "暂停 · 不执行"
+        }
+      }
+    },
+    "globalConfig": {
+      "appFeatures": {
+        "isTimeTrackingEnabled": true,
+        "isFocusModeEnabled": true,
+        "isSchedulerEnabled": true,
+        "isPlannerEnabled": true,
+        "isBoardsEnabled": true,
+        "isScheduleDayPanelEnabled": false,
+        "isIssuesPanelEnabled": false,
+        "isProjectNotesEnabled": true,
+        "isSyncIconEnabled": true,
+        "isSearchEnabled": true,
+        "isDonatePageEnabled": false,
+        "isHabitsEnabled": true,
+        "isFinishDayEnabled": true
+      },
+      "localization": {
+        "lng": "zh"
+      },
+      "tasks": {
+        "isConfirmBeforeDelete": true,
+        "isAutoAddWorkedOnToToday": true,
+        "isAutoMarkParentAsDone": false,
+        "isTrayShowCurrent": true,
+        "defaultProjectId": "INBOX_PROJECT",
+        "isMarkdownFormattingInNotesEnabled": true,
+        "notesTemplate": "目标：\n\n交付标准：\n\n下一步：\n",
+        "priorityIconPreset": "chevrons"
+      },
+      "misc": {
+        "isConfirmBeforeExit": false,
+        "isConfirmBeforeExitWithoutFinishDay": true,
+        "isMinimizeToTray": false,
+        "isShowDueTaskBadge": false,
+        "isCheckForUpdates": false,
+        "isTrayShowCurrentCountdown": true,
+        "startOfNextDay": 0,
+        "startOfNextDayTime": "00:00",
+        "isDisableAnimations": false,
+        "isVerticalActionBar": false,
+        "isDisableCelebration": true,
+        "isShowProductivityTipLonger": false,
+        "customTheme": "default",
+        "defaultStartPage": 0,
+        "backgroundImageDark": null,
+        "backgroundImageLight": null
+      },
+      "shortSyntax": {
+        "isEnableProject": true,
+        "isEnableDue": true,
+        "isEnableDeadline": false,
+        "isEnablePriority": true,
+        "isEnableTag": true,
+        "urlBehavior": "keep"
+      },
+      "evaluation": {
+        "isHideEvaluationSheet": false
+      },
+      "idle": {
+        "isOnlyOpenIdleWhenCurrentTask": true,
+        "isSuppressIdleDuringFocusMode": true,
+        "isEnableIdleTimeTracking": true,
+        "minIdleTime": 300000
+      },
+      "takeABreak": {
+        "isTakeABreakEnabled": false,
+        "isLockScreen": false,
+        "isTimedFullScreenBlocker": false,
+        "timedFullScreenBlockerDuration": 8000,
+        "isFocusWindow": false,
+        "takeABreakMessage": "You have been working for ${duration} without one. Go away from the computer! Take a short walk! Makes you more productive in the long run!",
+        "takeABreakMinWorkingTime": 3600000,
+        "takeABreakSnoozeTime": 900000,
+        "motivationalImgs": []
+      },
+      "dominaMode": {
+        "isEnabled": false,
+        "interval": 300000,
+        "volume": 75,
+        "text": "Your current task is: ${currentTaskTitle}",
+        "voice": ""
+      },
+      "focusMode": {
+        "isSkipPreparation": false,
+        "isShowPreparation": false,
+        "isPlayTick": false,
+        "focusModeSound": "off",
+        "focusModeSoundVolume": 40,
+        "isPauseTrackingDuringBreak": true,
+        "autoStartFocusOnPlay": false,
+        "isManualBreakStart": true
+      },
+      "flowtime": {
+        "isBreakEnabled": false,
+        "breakMode": "ratio",
+        "breakPercentage": 20,
+        "breakRules": []
+      },
+      "clipboardImages": {
+        "imagePath": null
+      },
+      "pomodoro": {
+        "duration": 1500000,
+        "breakDuration": 300000,
+        "longerBreakDuration": 900000,
+        "cyclesBeforeLongerBreak": 4
+      },
+      "keyboard": {
+        "globalShowHide": "Ctrl+Shift+X",
+        "globalToggleTaskStart": null,
+        "globalAddNote": null,
+        "globalAddTask": null,
+        "globalToggleTaskWidget": null,
+        "addNewTask": "Shift+A",
+        "addNewProject": "Shift+P",
+        "addNewNote": "Alt+N",
+        "openProjectNotes": "Shift+N",
+        "toggleTaskViewCustomizerPanel": "C",
+        "toggleIssuePanel": "P",
+        "focusSideNav": "Shift+D",
+        "toggleSideNavMode": "Ctrl+B",
+        "showHelp": "?",
+        "showSearchBar": "Shift+F",
+        "toggleBacklog": "B",
+        "goToFocusMode": "F",
+        "goToWorkView": "W",
+        "goToScheduledView": "Shift+S",
+        "goToPlanner": "Shift+L",
+        "goToTimeline": "Shift+T",
+        "goToSettings": null,
+        "zoomIn": "Ctrl++",
+        "zoomOut": "Ctrl+-",
+        "zoomDefault": "Ctrl+0",
+        "triggerSync": "Ctrl+S",
+        "taskEditTitle": null,
+        "taskToggleDetailPanelOpen": "I",
+        "taskOpenNotesPanel": "N",
+        "taskOpenNotesFullscreen": null,
+        "taskOpenEstimationDialog": "T",
+        "taskSchedule": "S",
+        "taskScheduleToday": "Shift+T",
+        "taskScheduleTomorrow": null,
+        "taskScheduleNextWeek": null,
+        "taskScheduleNextMonth": null,
+        "taskScheduleDeadline": "Shift+S",
+        "taskUnschedule": "U",
+        "taskToggleDone": "D",
+        "taskAddSubTask": "A",
+        "taskDuplicate": "Ctrl+D",
+        "taskAddAttachment": "L",
+        "taskDelete": "Backspace",
+        "taskMoveToProject": "E",
+        "taskOpenContextMenu": "Q",
+        "selectPreviousTask": "K",
+        "selectNextTask": "J",
+        "moveTaskUp": "Ctrl+Shift+ArrowUp",
+        "moveTaskDown": "Ctrl+Shift+ArrowDown",
+        "moveTaskToTop": "Ctrl+Alt+ArrowUp",
+        "moveTaskToBottom": "Ctrl+Alt+ArrowDown",
+        "moveToBacklog": "Shift+B",
+        "expandSubTasks": null,
+        "collapseSubTasks": null,
+        "togglePlay": "Y",
+        "taskEditTags": "G",
+        "taskToggleSelect": "X"
+      },
+      "localBackup": {
+        "isEnabled": true,
+        "maxBackupFiles": 51
+      },
+      "sound": {
+        "volume": 75,
+        "isIncreaseDoneSoundPitch": true,
+        "doneSound": "ding-small-bell.mp3",
+        "breakReminderSound": null,
+        "trackTimeSound": null
+      },
+      "timeTracking": {
+        "defaultEstimate": 0,
+        "defaultEstimateSubTasks": 0,
+        "isNotifyWhenTimeEstimateExceeded": true,
+        "isAutoStartNextTask": false,
+        "isTrackingReminderEnabled": false,
+        "isTrackingReminderShowOnMobile": false,
+        "trackingReminderMinTime": 300000,
+        "isTrackingReminderNotify": false,
+        "isTrackingReminderFocusWindow": false
+      },
+      "reminder": {
+        "isCountdownBannerEnabled": true,
+        "countdownDuration": 600000,
+        "defaultTaskRemindOption": "AtStart",
+        "isFocusWindow": false,
+        "useAlarmStyleReminders": false,
+        "notifyOnDueDate": false,
+        "dueDateNotificationHour": 9
+      },
+      "schedule": {
+        "isWorkStartEndEnabled": true,
+        "workStart": "9:00",
+        "workEnd": "17:00",
+        "isLunchBreakEnabled": false,
+        "lunchBreakStart": "13:00",
+        "lunchBreakEnd": "14:00"
+      },
+      "sync": {
+        "isEnabled": false,
+        "isCompressionEnabled": false,
+        "isEncryptionEnabled": false,
+        "encryptKey": null,
+        "syncProvider": null,
+        "syncInterval": 60000,
+        "isManualSyncOnly": false,
+        "webDav": {
+          "baseUrl": null,
+          "userName": null,
+          "password": null,
+          "syncFolderPath": "super-productivity"
+        },
+        "superSync": {
+          "baseUrl": "https://sync.super-productivity.com",
+          "userName": null,
+          "password": null,
+          "accessToken": null,
+          "syncFolderPath": null
+        },
+        "localFileSync": {
+          "syncFolderPath": ""
+        },
+        "nextcloud": {
+          "serverUrl": null,
+          "loginName": null,
+          "userName": null,
+          "password": null,
+          "syncFolderPath": "super-productivity"
+        },
+        "oneDrive": {
+          "useCustomApp": true,
+          "clientId": null,
+          "tenantId": "common",
+          "syncFolderPath": "Super Productivity"
+        }
+      }
+    },
+    "note": {
+      "ids": [
+        "demo-intro"
+      ],
+      "entities": {
+        "demo-intro": {
+          "id": "demo-intro",
+          "projectId": "tao-console",
+          "content": "# 工作总台\n\n这是演示清单。资料库入口可放自己的链接或文档。\n\n数据存在当前浏览器，未启用云同步。Codex连接只管理任务，不执行发布或付费生成。",
+          "created": 1704067200000,
+          "modified": 1704067200000
+        }
+      }
+    },
+    "issueProvider": {
+      "ids": [],
+      "entities": {}
+    },
+    "planner": {
+      "days": {}
+    },
+    "boards": {
+      "boardCfgs": [
+        {
+          "id": "TAO_CONSOLE",
+          "title": "工作总台",
+          "cols": 3,
+          "panels": [
+            {
+              "id": "daily",
+              "title": "每日例行",
+              "includedTagIds": [
+                "tao-routine"
+              ],
+              "excludedTagIds": [],
+              "projectIds": [
+                ""
+              ],
+              "taskIds": [],
+              "taskDoneState": 3,
+              "scheduledState": 1,
+              "backlogState": 1,
+              "isParentTasksOnly": true
+            },
+            {
+              "id": "review",
+              "title": "优先待验收",
+              "includedTagIds": [
+                "tao-pending"
+              ],
+              "excludedTagIds": [],
+              "projectIds": [
+                "tao-video"
+              ],
+              "taskIds": [],
+              "taskDoneState": 3,
+              "scheduledState": 1,
+              "backlogState": 1,
+              "isParentTasksOnly": true
+            },
+            {
+              "id": "hold",
+              "title": "暂停 / 问题记录",
+              "includedTagIds": [],
+              "excludedTagIds": [],
+              "projectIds": [
+                "tao-hold"
+              ],
+              "taskIds": [],
+              "taskDoneState": 3,
+              "scheduledState": 1,
+              "backlogState": 1,
+              "isParentTasksOnly": true
+            }
+          ]
+        }
+      ]
+    },
+    "metric": {
+      "ids": [],
+      "entities": {}
+    },
+    "simpleCounter": {
+      "ids": [
+        "STANDING_DESK_ID",
+        "COFFEE_COUNTER",
+        "STRETCHING_COUNTER"
+      ],
+      "entities": {
+        "STANDING_DESK_ID": {
+          "id": "STANDING_DESK_ID",
+          "title": "Standing Desk Timer",
+          "isEnabled": false,
+          "icon": "directions_walk",
+          "type": "StopWatch",
+          "countOnDay": {},
+          "isOn": false,
+          "isTrackStreaks": true,
+          "streakMinValue": 1800000,
+          "streakMode": "specific-days",
+          "streakWeekDays": {
+            "0": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": false
+          }
+        },
+        "COFFEE_COUNTER": {
+          "id": "COFFEE_COUNTER",
+          "title": "Coffee Counter",
+          "isEnabled": false,
+          "icon": "free_breakfast",
+          "type": "ClickCounter",
+          "countOnDay": {},
+          "isOn": false,
+          "isTrackStreaks": false,
+          "streakMinValue": 2,
+          "streakMode": "specific-days",
+          "streakWeekDays": {
+            "0": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": false
+          }
+        },
+        "STRETCHING_COUNTER": {
+          "id": "STRETCHING_COUNTER",
+          "title": "Stretching Counter",
+          "isEnabled": false,
+          "icon": "fitness_center",
+          "type": "RepeatedCountdownReminder",
+          "countOnDay": {},
+          "isOn": false,
+          "isTrackStreaks": true,
+          "streakMinValue": 8,
+          "streakMode": "specific-days",
+          "streakWeekDays": {
+            "0": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": false
+          },
+          "countdownDuration": 1800000
+        }
+      }
+    },
+    "taskRepeatCfg": {
+      "ids": [],
+      "entities": {}
+    },
+    "menuTree": {
+      "projectTree": [
+        {
+          "id": "tao-console",
+          "k": "p"
+        },
+        {
+          "id": "tao-shoe",
+          "k": "p"
+        },
+        {
+          "id": "tao-video",
+          "k": "p"
+        },
+        {
+          "id": "tao-business",
+          "k": "p"
+        },
+        {
+          "id": "tao-study",
+          "k": "p"
+        },
+        {
+          "id": "tao-tools",
+          "k": "p"
+        },
+        {
+          "id": "tao-hold",
+          "k": "p"
+        }
+      ],
+      "tagTree": [
+        {
+          "id": "tao-routine",
+          "k": "t"
+        },
+        {
+          "id": "tao-pending",
+          "k": "t"
+        },
+        {
+          "id": "tao-hold-tag",
+          "k": "t"
+        }
+      ]
+    },
+    "timeTracking": {
+      "tag": {},
+      "project": {}
+    },
+    "pluginUserData": [],
+    "pluginMetadata": [
+      {
+        "id": "tao-codex-task-bridge",
+        "isEnabled": true
+      }
+    ],
+    "reminders": [],
+    "section": {
+      "ids": [],
+      "entities": {}
+    },
+    "archiveYoung": {
+      "task": {
+        "ids": [],
+        "entities": {}
+      },
+      "timeTracking": {
+        "tag": {},
+        "project": {}
+      },
+      "lastTimeTrackingFlush": 0
+    },
+    "archiveOld": {
+      "task": {
+        "ids": [],
+        "entities": {}
+      },
+      "timeTracking": {
+        "tag": {},
+        "project": {}
+      },
+      "lastTimeTrackingFlush": 0
+    }
+  }
+}
