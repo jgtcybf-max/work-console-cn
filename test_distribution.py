@@ -29,7 +29,7 @@ class DistributionTests(unittest.TestCase):
         if not (ROOT/'web').exists():self.skipTest('Run python install.py first')
         for patch in json.loads((ROOT/'patches.json').read_text(encoding='utf8')):
             if patch['path']=='index.html':
-                self.assertIn('brand.js?v=xiefurn-20261117',(ROOT/'web'/'index.html').read_text(encoding='utf8'))
+                self.assertIn('brand.js?v=xiefurn-large-20261117',(ROOT/'web'/'index.html').read_text(encoding='utf8'))
                 continue
             self.assertEqual(hashlib.sha256((ROOT/'web'/patch['path']).read_bytes()).hexdigest(),patch['sha256_after'])
 

@@ -2,10 +2,11 @@
 from pathlib import Path
 import json,re,shutil,zipfile
 
-VERSION='xiefurn-20261117'
+VERSION='xiefurn-large-20261117'
 
 def brand_index(text):
     text=re.sub(r'(<link\b[^>]*href=")([^\"]+)("[^>]*(?:rel="(?:shortcut icon|icon|apple-touch-icon|mask-icon|manifest)")[^>]*>)',lambda m:m[1]+m[2].split('?')[0]+'?v='+VERSION+m[3],text)
+    text=re.sub(r'brand\.js\?v=[^\"]+', 'brand.js?v='+VERSION,text)
     if 'brand.js?v=' not in text:text=text.replace('</body>','<script src="brand.js?v='+VERSION+'"></script></body>')
     return text
 
