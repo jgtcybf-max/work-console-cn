@@ -42,6 +42,8 @@ def install():
         p.write_text(text,encoding='utf8',newline='\n')
     for source,destination in [('zh.json','assets/i18n/zh.json'),('tao-chinese.js','tao-chinese.js'),('tao-defaults.js','tao-defaults.js'),('demo-seed.json','tao-seed.json'),('library.html','library.html'),('plugin.js','assets/bundled-plugins/tao-codex-task-bridge/plugin.js'),('plugin-manifest.json','assets/bundled-plugins/tao-codex-task-bridge/manifest.json')]:
         p=WEB/destination;p.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(ROOT/source,p)
+    from branding import apply
+    apply(WEB,ROOT)
     with zipfile.ZipFile(ROOT/'codex-task-bridge.zip','w',zipfile.ZIP_DEFLATED) as z:
         z.write(ROOT/'plugin.js','plugin.js');z.write(ROOT/'plugin-manifest.json','manifest.json')
     (WEB/'.work-console-build').write_text('work-console-cn v0.1.0\n',encoding='utf8')

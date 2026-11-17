@@ -1,6 +1,7 @@
 /web/
 /.cache/
 /upstream-web.zip
+/brand/
 /relay-token.txt
 /codex-task-bridge.zip
 /bridge-*.json

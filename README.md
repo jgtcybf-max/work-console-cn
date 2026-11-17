@@ -1,5 +1,7 @@
 # 工作总台 · 中文版
 
+<img src="logo.png" width="180" alt="鞋夫人 XIEFURN 标识">
+
 基于 [Super Productivity](https://github.com/super-productivity/super-productivity) 的本地工作台：**首次打开默认中文、业务项目和任务看板直接可用，Codex 可以连接同一份任务清单。**
 
 适合把每日安排、内容验收、学习和工具整理放到一个入口的人。无需购买 API，也不依赖云端数据库。
